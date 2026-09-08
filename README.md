@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Imran Alam
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
+Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rishabh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therishabh1585) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rishabh-sharma-731685307) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rishabh Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:therishabh1585@gmail.com) 
 
